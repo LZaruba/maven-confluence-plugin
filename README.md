@@ -1,4 +1,12 @@
 
+# PROJECT HAS BEEN MOVED 
+
+> This project has been moved to an independent project 
+> take a look to [confluence-site-publisher](https://github.com/bsorrentino/confluence-site-publisher) 
+
+----
+
+
 ```
  __   __        ___            ___       __   ___     __    ___  ___ 
 /  ` /  \ |\ | |__  |    |  | |__  |\ | /  ` |__     /__` |  |  |__  
